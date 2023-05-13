@@ -3,6 +3,12 @@
 
 格式：名字（地点），可附小段评价供大家参考
 
+## 贡献者
+
+<a href="https://github.com/KezhiAdore/GoodFan/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=KezhiAdore/GoodFan" />
+</a>
+
 ## 西安
 
 ### 交大创新港校区周边
